@@ -9,10 +9,12 @@ public class ProjetoInfo2 {
         
         int a = 4;
         int b = 5;
+        int c = 2;
         
         System.out.println(a+b);
         System.out.println(a-b);
         System.out.println(a*b);
         System.out.println(a/b);
+        System.out.println(a+b+c);
     }
 }
